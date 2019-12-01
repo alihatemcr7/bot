@@ -23,7 +23,7 @@ client.on('ready', () => {
       console.log(`ON ${client.guilds.size} Servers '     Script By : i1Suhaib ' `);
     console.log(`----------------`);
   console.log(`Logged in as ${client.user.tag}!`);
-client.user.setGame(`Lord Abn Adam`,"http://twitch.tv/S-F")
+client.user.setGame(`Dark Angels`,"http://twitch.tv/S-F")
 client.user.setStatus("dnd")
 });
 
